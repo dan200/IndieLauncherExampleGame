@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>ExampleGame</title>
+    <link>https://github.com/dan200/IndieLauncherExampleGame</link>
+    <description>Example Game</description>
+    <item>
+      <title>1.1</title>
+      <link>https://raw.githubusercontent.com/dan200/IndieLauncherExampleGame/master/Downloads/ExampleGame1.1.zip</link>
+      <description>Added new features.</description>
+    </item>
+    <item>
+      <title>1.0</title>
+      <link>https://raw.githubusercontent.com/dan200/IndieLauncherExampleGame/master/Downloads/ExampleGame1.1.zip</link>
+      <description>Initial release.</description>
+    </item>
+  </channel>
+</rss>
